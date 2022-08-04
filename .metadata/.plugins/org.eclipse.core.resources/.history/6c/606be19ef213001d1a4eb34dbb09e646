@@ -1,0 +1,38 @@
+#include <gui/racescreen_screen/RaceScreenView.hpp>
+
+RaceScreenView::RaceScreenView()
+{
+
+}
+
+void RaceScreenView::setupScreen()
+{
+    RaceScreenViewBase::setupScreen();
+    counter = 0;
+    carX = car.getX();
+    carY = car.getY();
+    moveDirection = 2;
+
+}
+
+void RaceScreenView::tearDownScreen()
+{
+    RaceScreenViewBase::tearDownScreen();
+}
+
+void RaceScreenView::handleTickEvent() {
+	if (carX == 0) {
+		if (moveDirection ==  8) {
+		moveDirection = 2;
+	} else if (moveDirection == 6) {
+		moveDirection = 4;
+		}
+	}
+	if (carX == 200)
+
+
+		carX++;
+		carY--;
+	car.startMoveAnimation(carX, carY, 45);
+
+}

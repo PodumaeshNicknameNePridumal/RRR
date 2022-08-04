@@ -15,7 +15,7 @@ public:
 protected:
     uint16_t carX,carY;
     int counter;
-    int move;
+    int moveDirection;
 };
 
 #endif // RACESCREENVIEW_HPP
