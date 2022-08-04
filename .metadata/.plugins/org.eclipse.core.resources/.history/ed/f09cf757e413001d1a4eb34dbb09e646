@@ -1,0 +1,34 @@
+#include <gui/racescreen_screen/RaceScreenView.hpp>
+
+RaceScreenView::RaceScreenView()
+{
+
+}
+
+void RaceScreenView::setupScreen()
+{
+    RaceScreenViewBase::setupScreen();
+    counter = 0;
+
+
+}
+
+void RaceScreenView::tearDownScreen()
+{
+    RaceScreenViewBase::tearDownScreen();
+}
+
+void RaceScreenView::handleTickEvent() {
+	if( counter <=6) {
+		counter++;
+	} else {
+		counter = 0;
+
+		carY--;
+		carX++;
+//	car.startMoveAnimation(carX, carY, 60);
+
+		car.moveRelative(carX, carY);
+		car.invalidate();
+	}
+}

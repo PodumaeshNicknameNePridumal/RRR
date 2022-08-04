@@ -72,7 +72,6 @@
             "Width": 37,
             "Height": 79,
             "RelativeFilename": "auto.png",
-            "Draggable": true,
             "Moveable": true
           }
         ],
@@ -116,7 +115,7 @@
     },
     "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
     "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
-    "PostGenerateTargetCommand": "touchgfx update_project --project-file=../STM32F429I-DISCO.ioc --platform=m4",
+    "PostGenerateTargetCommand": "touchgfx update_project",
     "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
     "RunSimulatorCommand": "build\\bin\\simulator.exe",
     "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
@@ -125,7 +124,12 @@
     "LandscapeSkinY": 0,
     "PortraitSkinX": 0,
     "PortraitSkinY": 0,
-    "DisplayOrientation": "Portrait"
+    "DisplayOrientation": "Portrait",
+    "Family": "STM32F4",
+    "Platform": "m4",
+    "ProjectFile": "../STM32F429I-DISCO.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": []
   },
   "Version": "4.20.0",
   "CreatedBy": "4.20.0"

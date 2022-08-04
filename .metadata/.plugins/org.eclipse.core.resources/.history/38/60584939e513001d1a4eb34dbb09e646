@@ -1,0 +1,35 @@
+#include <gui/racescreen_screen/RaceScreenView.hpp>
+
+RaceScreenView::RaceScreenView()
+{
+
+}
+
+void RaceScreenView::setupScreen()
+{
+    RaceScreenViewBase::setupScreen();
+    counter = 0;
+    carX = car.getX();
+    carY = car.getY();
+
+}
+
+void RaceScreenView::tearDownScreen()
+{
+    RaceScreenViewBase::tearDownScreen();
+}
+
+void RaceScreenView::handleTickEvent() {
+
+
+		carX++;
+		carY--;
+//	carY=carY-1;
+//	carX =carX+1;
+
+	car.startMoveAnimation(carX, carY, 60);
+//
+//	car.moveRelative(carX, carY);
+//	car.invalidate();
+
+}

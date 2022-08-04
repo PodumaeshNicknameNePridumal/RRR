@@ -11,7 +11,11 @@ public:
     virtual ~RaceScreenView() {}
     virtual void setupScreen();
     virtual void tearDownScreen();
+    virtual void handleTickEvent();
 protected:
+    uint16_t carX,carY;
+    int counter;
+    int move;
 };
 
 #endif // RACESCREENVIEW_HPP

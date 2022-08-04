@@ -1,5 +1,0 @@
-../../TouchGFX/gui/include/gui/racescreen_screen/RaceScreenPresenter.hpp:28:13:RaceScreenPresenter::~RaceScreenPresenter()	0	static
-C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenPresenter.cpp:10:6:virtual void RaceScreenPresenter::activate()	0	static
-../../TouchGFX/gui/include/gui/racescreen_screen/RaceScreenPresenter.hpp:28:13:virtual RaceScreenPresenter::~RaceScreenPresenter()	8	static
-../../TouchGFX/gui/include/gui/racescreen_screen/RaceScreenPresenter.hpp:28:13:virtual void* RaceScreenPresenter::_ZThn4_N19RaceScreenPresenterD1Ev()	0	static
-C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenPresenter.cpp:4:1:RaceScreenPresenter::RaceScreenPresenter(RaceScreenView&)	8	static

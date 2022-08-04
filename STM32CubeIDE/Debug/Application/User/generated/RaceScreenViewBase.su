@@ -20,17 +20,14 @@
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:78:18:virtual bool touchgfx::AbstractPainter::setup(const touchgfx::Rect&) const	0	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:90:18:virtual void touchgfx::AbstractPainter::tearDown() const	0	static
 ../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:touchgfx::View<RaceScreenPresenter>::~View()	0	static
-../../TouchGFX/generated/gui_generated/include/gui_generated/racescreen_screen/RaceScreenViewBase.hpp:22:13:RaceScreenViewBase::~RaceScreenViewBase()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/racescreen_screen/RaceScreenViewBase.hpp:21:13:RaceScreenViewBase::~RaceScreenViewBase()	0	static
 C:/TouchGFXProjects/RRR/TouchGFX/generated/gui_generated/src/racescreen_screen/RaceScreenViewBase.cpp:56:6:virtual void RaceScreenViewBase::setupScreen()	0	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:37:7:touchgfx::MoveAnimator<touchgfx::Image>::~MoveAnimator()	0	static
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/Draggable.hpp:32:7:touchgfx::Draggable<touchgfx::MoveAnimator<touchgfx::Image> >::~Draggable()	0	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:88:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = touchgfx::Image]	0	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:100:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = touchgfx::Image]	0	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:37:7:virtual touchgfx::MoveAnimator<touchgfx::Image>::~MoveAnimator()	8	static
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/Draggable.hpp:32:7:virtual touchgfx::Draggable<touchgfx::MoveAnimator<touchgfx::Image> >::~Draggable()	8	static
 ../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:virtual touchgfx::View<RaceScreenPresenter>::~View()	8	static
-../../TouchGFX/generated/gui_generated/include/gui_generated/racescreen_screen/RaceScreenViewBase.hpp:22:13:virtual RaceScreenViewBase::~RaceScreenViewBase()	8	static
-../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/Draggable.hpp:48:18:void touchgfx::Draggable<T>::handleDragEvent(const touchgfx::DragEvent&) [with T = touchgfx::MoveAnimator<touchgfx::Image>]	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/racescreen_screen/RaceScreenViewBase.hpp:21:13:virtual RaceScreenViewBase::~RaceScreenViewBase()	8	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	0	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:118:18:virtual void touchgfx::Image::invalidateContent() const	8	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:169:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = touchgfx::Image]	24	static

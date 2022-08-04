@@ -11,7 +11,6 @@
 #include <touchgfx/widgets/canvas/Line.hpp>
 #include <touchgfx/widgets/canvas/PainterRGB565.hpp>
 #include <touchgfx/widgets/Image.hpp>
-#include <touchgfx/mixins/Draggable.hpp>
 #include <touchgfx/EasingEquations.hpp>
 #include <touchgfx/mixins/MoveAnimator.hpp>
 
@@ -38,7 +37,7 @@ protected:
     touchgfx::PainterRGB565 line2Painter;
     touchgfx::Line line3;
     touchgfx::PainterRGB565 line3Painter;
-    touchgfx::Draggable< touchgfx::MoveAnimator< touchgfx::Image > > car;
+    touchgfx::MoveAnimator< touchgfx::Image > car;
 
 private:
 

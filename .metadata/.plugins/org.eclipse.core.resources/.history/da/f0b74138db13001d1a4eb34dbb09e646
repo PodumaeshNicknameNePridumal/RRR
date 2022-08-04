@@ -1,0 +1,27 @@
+#include <gui/racescreen_screen/RaceScreenView.hpp>
+
+RaceScreenView::RaceScreenView()
+{
+
+}
+
+void RaceScreenView::setupScreen()
+{
+    RaceScreenViewBase::setupScreen();
+
+}
+
+void RaceScreenView::tearDownScreen()
+{
+    RaceScreenViewBase::tearDownScreen();
+}
+
+void RaceScreenView::handleTickEvent() {
+	carX = car.getX();
+    carY = car.getY();
+    // code definition directions
+
+
+    carX
+    car.moveRelative(x, y);
+}

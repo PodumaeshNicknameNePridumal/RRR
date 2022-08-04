@@ -1,0 +1,39 @@
+#include <gui/racescreen_screen/RaceScreenView.hpp>
+
+RaceScreenView::RaceScreenView()
+{
+
+}
+
+void RaceScreenView::setupScreen()
+{
+    RaceScreenViewBase::setupScreen();
+
+}
+
+void RaceScreenView::tearDownScreen()
+{
+    RaceScreenViewBase::tearDownScreen();
+}
+
+void RaceScreenView::handleTickEvent() {
+	carX = car.getX();
+    carY = car.getY();
+
+    //begin  direction finding
+    if (carX < 240) {
+    	carX++;
+    } else if (carX >= 240) {
+    	carX--;
+    }
+
+    if (carY < 0) {
+        	carX--;
+        } else if (carY <= 0) {
+        	carX++;
+        }
+    //end
+
+    carX
+    car.moveRelative(x, y);
+}
