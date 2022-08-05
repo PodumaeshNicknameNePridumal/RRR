@@ -1,0 +1,24 @@
+#include <gui/model/Model.hpp>
+#include <gui/model/ModelListener.hpp>
+
+
+#ifndef SIMULATOR
+#include "stm32746g_discovery.h"
+#endif
+
+
+Model::Model() : modelListener(0)
+{
+
+}
+
+void Model::tick()
+{
+
+}
+
+void Model::getDirection() {
+	HAL_ADC_Start_DMA(&hadc1, adc_result, 2);
+
+
+}

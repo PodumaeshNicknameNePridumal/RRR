@@ -1,10 +1,20 @@
-11:10:40 **** Incremental Build of configuration Debug for project STM32CubeIDE ****
+15:00:34 **** Incremental Build of configuration Debug for project STM32CubeIDE ****
 make -j8 all 
+arm-none-eabi-gcc "C:/TouchGFXProjects/RRR/Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DDEBUG -DSTM32F429xx -c -I../../Core/Inc -I../../Drivers/CMSIS/Include -I../../Drivers/BSP -I../../TouchGFX/target -I../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../TouchGFX/App -I../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../../TouchGFX/target/generated -I../../Middlewares/Third_Party/FreeRTOS/Source/include -I../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../Middlewares/ST/touchgfx/framework/include -I../../TouchGFX/generated/fonts/include -I../../TouchGFX/generated/gui_generated/include -I../../TouchGFX/generated/images/include -I../../TouchGFX/generated/texts/include -I../../TouchGFX/generated/videos/include -I../../TouchGFX/gui/include -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+arm-none-eabi-g++ -o "STM32CubeIDE.elf" @"objects.list"  -l:libtouchgfx-float-abi-hard.a -mcpu=cortex-m4 -T"C:\TouchGFXProjects\RRR\STM32CubeIDE\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32CubeIDE.map" -Wl,--gc-sections -static -LC:/TouchGFXProjects/RRR/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: STM32CubeIDE.elf
+ 
 arm-none-eabi-size   STM32CubeIDE.elf 
+arm-none-eabi-objdump -h -S  STM32CubeIDE.elf  > "STM32CubeIDE.list"
+arm-none-eabi-objcopy  -O ihex  STM32CubeIDE.elf  "STM32CubeIDE.hex"
    text	   data	    bss	    dec	    hex	filename
- 409554	    384	 391772	 801710	  c3bae	STM32CubeIDE.elf
+ 409586	    384	 391780	 801750	  c3bd6	STM32CubeIDE.elf
 Finished building: default.size.stdout
  
+Finished building: STM32CubeIDE.hex
+ 
+Finished building: STM32CubeIDE.list
+ 
 
-11:10:41 Build Finished. 0 errors, 0 warnings. (took 972ms)
+15:00:37 Build Finished. 0 errors, 0 warnings. (took 2s.416ms)
 

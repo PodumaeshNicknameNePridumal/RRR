@@ -7,12 +7,12 @@ RaceScreenView::RaceScreenView()
 
 void RaceScreenView::setupScreen()
 {
-    RaceScreenViewBase::setupScreen();
-    carX = car.getX();
+	carX = car.getX();
     carY = car.getY();
     score = 0;
-
     moveDirection = 2;
+    RaceScreenViewBase::setupScreen();
+
 
 }
 
@@ -23,10 +23,15 @@ void RaceScreenView::tearDownScreen()
 
 // moveDirection 1 - up, 2 - up and right, 3 - right, 4 - right and down and continue...
 void RaceScreenView::handleTickEvent() {
+    extern ADC_HandleTypeDef hadc1;
+    uint32_t adcResult[2];
+    HAL_ADC_Start_DMA(&hadc1, adcResult, 2);
+
 	car.cancelMoveAnimation();
 	score++;
 	Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%d", score/20);
 	scoreCounter.invalidate();
+
 
 	if (carX == 0) {
 		if (moveDirection ==  8) moveDirection = 2;
