@@ -3925,3 +3925,1261 @@ org.eclipse.core.runtime.CoreException: Setup exceptions
 
 !ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:14:03.310
 !MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:31.499
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:31.501
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:31.503
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:31.504
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:31.508
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:31.508
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:16:31.541
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:16:31.541
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:16:31.541
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:16:31.541
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:16:38.303
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:16:38.303
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:16:38.303
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:16:38.303
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:39.513
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:39.515
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:39.517
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:39.518
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:39.521
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:16:39.521
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:16:39.548
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:16:39.548
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:16:39.548
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:16:39.548
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:18.187
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:18.192
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:18.196
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:18.197
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:18.200
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:18.200
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:17:18.231
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:17:18.231
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:17:18.231
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:17:18.231
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:17:30.834
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:17:30.834
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:17:30.834
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:17:30.834
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:32.018
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:32.020
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:32.022
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:32.023
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:32.026
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:17:32.026
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:17:32.052
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:17:32.052
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:17:32.052
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:17:32.053
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:07.423
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:07.426
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:07.428
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:07.429
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:07.432
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:07.433
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:18:07.463
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:18:07.463
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:18:07.463
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:18:07.463
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:18:10.698
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:18:10.698
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:18:10.698
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:18:10.698
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:11.869
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:11.872
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:11.874
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:11.875
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:11.877
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:18:11.878
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:18:11.905
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:18:11.905
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:18:11.905
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:18:11.905
+!MESSAGE Project is null
+!SESSION 2022-08-04 16:23:00.106 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-04 16:23:08.794
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-04 16:23:08.869
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-04 16:23:15.153
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-08-04 16:27:56.484 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-04 16:28:03.225
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-04 16:28:03.299
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-04 16:28:09.524
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.440
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.443
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.452
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.455
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.461
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.461
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.464
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.475
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:05.476
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:34:05.594
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:34:05.594
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:34:05.594
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:34:05.595
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.406
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.408
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.414
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.417
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.423
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.424
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.426
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.434
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:34:17.435
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:34:17.496
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:34:17.496
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:34:17.496
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:34:17.497
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:38:32.331
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:38:32.331
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:38:32.331
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:38:32.331
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.510
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.511
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.515
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.516
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.520
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.520
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.522
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.532
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:38:33.532
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:38:33.579
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:38:33.579
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:38:33.579
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:38:33.579
+!MESSAGE Project is null
+!SESSION 2022-08-04 16:41:39.263 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-04 16:44:25.250
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-04 16:44:25.322
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-04 16:44:31.930
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.518
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.521
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.527
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.530
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.536
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.536
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.540
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.549
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:34.550
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:44:34.665
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:44:34.665
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:44:34.665
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:44:34.666
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:44:39.516
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:44:39.516
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:44:39.516
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:44:39.517
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.753
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.756
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.760
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.762
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.766
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.767
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.769
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.775
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:44:40.776
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:44:40.846
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:44:40.846
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:44:40.846
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:44:40.847
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.793
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.794
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.798
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.799
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.803
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.803
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.805
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.810
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:26.810
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:46:26.862
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:46:26.862
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:46:26.862
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:46:26.863
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:46:30.360
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:46:30.360
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:46:30.360
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:46:30.360
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.711
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.712
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.715
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.716
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.720
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.721
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.722
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.727
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:31.727
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:46:31.767
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:46:31.767
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:46:31.767
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:46:31.768
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:46:47.708
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:46:47.708
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:46:47.708
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:46:47.709
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:48.995
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:48.997
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.001
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.004
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.008
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.008
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.009
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.014
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:46:49.015
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:46:49.065
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:46:49.065
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:46:49.065
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:46:49.066
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.672
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.674
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.677
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.678
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.681
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.682
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.683
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.688
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:47:56.689
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:47:56.736
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:47:56.736
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:47:56.736
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:47:56.737
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:48:01.471
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:48:01.471
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:48:01.471
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:48:01.471
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.633
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.634
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.637
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.639
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.642
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.643
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.644
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.649
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:02.649
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:48:02.692
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:48:02.693
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:48:02.693
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:48:02.693
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:48:14.753
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:48:14.753
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:48:14.753
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:48:14.753
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.040
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.042
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.047
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.049
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.052
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.052
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.054
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.059
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 16:48:16.059
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 16:48:16.108
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 16:48:16.108
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 16:48:16.108
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 16:48:16.108
+!MESSAGE Project is null
+!SESSION 2022-08-04 17:15:53.314 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-04 17:16:00.117
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-04 17:16:00.188
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-04 17:16:06.275
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.250
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.252
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.253
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.259
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.261
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.262
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.266
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.270
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.273
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.273
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.280
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:13.281
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 17:16:13.416
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 17:16:13.416
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 17:16:13.416
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 17:16:13.417
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 17:16:22.329
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 17:16:22.329
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 17:16:22.329
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 17:16:22.330
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.631
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.634
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.635
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.641
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.644
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.644
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.648
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.652
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.654
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.655
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.661
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-04 17:16:23.661
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-04 17:16:23.727
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-04 17:16:23.728
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-04 17:16:23.728
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-04 17:16:23.728
+!MESSAGE Project is null
+!SESSION 2022-08-05 10:14:58.707 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-05 10:15:10.469
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-05 10:15:10.547
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-05 10:15:17.764
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-08-05 11:04:12.528 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-05 11:04:20.518
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-05 11:04:20.587
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-05 11:04:26.523
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.159
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.163
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.164
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.173
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.177
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.178
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.183
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.190
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.193
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.194
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.210
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:07:24.215
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:07:24.404
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:07:24.404
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:07:24.404
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:07:24.405
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.170
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.173
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.173
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.180
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.183
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.184
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.188
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.193
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.196
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.197
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.207
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:05.212
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:08:05.303
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:08:05.303
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:08:05.303
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:08:05.304
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.646
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.647
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.648
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.651
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.653
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.653
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.655
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.658
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.659
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.659
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.665
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:08:51.668
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:08:51.726
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:08:51.726
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:08:51.726
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:08:51.727
+!MESSAGE Project is null
+!SESSION 2022-08-05 11:09:23.204 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-05 11:09:29.985
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-05 11:09:30.054
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\RRR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-05 11:09:36.333
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.359
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.359
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.359
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.359
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.375
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.375
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.375
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.375
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.390
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.390
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.390
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:09:39.406
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:09:39.528
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:09:39.528
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:09:39.528
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:09:39.544
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.864
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.864
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.864
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.864
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.864
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.864
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.879
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.879
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.879
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.879
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.895
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:06.895
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:10:06.995
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:10:06.995
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:10:06.995
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:10:06.995
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:10:24.253
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:10:24.253
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:10:24.253
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:10:24.253
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.287
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.287
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.287
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.287
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.287
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.287
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.303
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.310
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.310
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.310
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.310
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:26.325
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:10:26.388
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:10:26.388
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:10:26.388
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:10:26.388
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2022-08-05 11:10:35.576
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+monitor reset
+
+Error message from debugger back end:
+Cannot execute this command while the target is running.
+Use the "interrupt" command to stop the target
+and then try again.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+monitor reset
+
+Error message from debugger back end:
+Cannot execute this command while the target is running.
+Use the "interrupt" command to stop the target
+and then try again.
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:252)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:109)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:97)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:328)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:803)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1021)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1224)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.Exception: Cannot execute this command while the target is running.\nUse the "interrupt" command to stop the target\nand then try again.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2022-08-05 11:10:35.577
+!MESSAGE Failed to execute MI command:
+monitor reset
+
+Error message from debugger back end:
+Cannot execute this command while the target is running.
+Use the "interrupt" command to stop the target
+and then try again.
+!STACK 0
+java.lang.Exception: Cannot execute this command while the target is running.\nUse the "interrupt" command to stop the target\nand then try again.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:10:39.421
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:10:39.421
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:10:39.421
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:10:39.421
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.828
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_10_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.828
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_20_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.828
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Font_verdana_40_4bpp_0.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.828
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.828
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.844
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Kerning_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.844
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Screen1ViewBase.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.844
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_10_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.844
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_20_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.844
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/Table_verdana_40_4bpp.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.844
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_gamecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2022-08-05 11:10:40.859
+!MESSAGE Ignored L/STM32CubeIDE/Application/User/generated/image_racecar.cpp from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.core.resources 4 77 2022-08-05 11:10:40.906
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-08-05 11:10:40.906
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-08-05 11:10:40.906
+!MESSAGE C:\TouchGFXProjects\RRR\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2022-08-05 11:10:40.906
+!MESSAGE Project is null

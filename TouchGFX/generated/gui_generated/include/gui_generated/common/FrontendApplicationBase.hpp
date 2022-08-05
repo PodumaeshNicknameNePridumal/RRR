@@ -17,11 +17,14 @@ public:
 
     virtual void changeToStartScreen()
     {
-        gotoRaceScreenScreenNoTransition();
+        gotoStartScreenScreenNoTransition();
     }
 
     // RaceScreen
     void gotoRaceScreenScreenNoTransition();
+
+    // StartScreen
+    void gotoStartScreenScreenNoTransition();
 
 protected:
     touchgfx::Callback<FrontendApplicationBase> transitionCallback;
@@ -30,6 +33,9 @@ protected:
 
     // RaceScreen
     void gotoRaceScreenScreenNoTransitionImpl();
+
+    // StartScreen
+    void gotoStartScreenScreenNoTransitionImpl();
 };
 
 #endif // FRONTENDAPPLICATIONBASE_HPP

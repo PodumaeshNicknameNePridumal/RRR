@@ -4,6 +4,7 @@
 #include <gui_generated/racescreen_screen/RaceScreenViewBase.hpp>
 #include <touchgfx/Color.hpp>
 #include <BitmapDatabase.hpp>
+#include <texts/TextKeysAndLanguages.hpp>
 #include <touchgfx/canvas_widget_renderer/CanvasWidgetRenderer.hpp>
 
 
@@ -15,7 +16,7 @@ RaceScreenViewBase::RaceScreenViewBase()
     __background.setPosition(0, 0, 240, 320);
     __background.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
 
-    road.setPosition(0, 0, 240, 320);
+    road.setPosition(0, -148, 240, 619);
     road.setColor(touchgfx::Color::getColorFromRGB(79, 79, 79));
 
     line1.setPosition(0, 0, 240, 320);
@@ -42,15 +43,52 @@ RaceScreenViewBase::RaceScreenViewBase()
     line3.setLineWidth(2);
     line3.setLineEndingStyle(touchgfx::Line::ROUND_CAP_ENDING);
 
-    car.setXY(14, 223);
-    car.setBitmap(touchgfx::Bitmap(BITMAP_AUTO_ID));
+    auto2.setXY(120, -98);
+    auto2.setBitmap(touchgfx::Bitmap(BITMAP_DJIP_ID));
+
+    auto1.setXY(69, -86);
+    auto1.setBitmap(touchgfx::Bitmap(BITMAP_BLUE_AUTO_ID));
+
+    auto3.setXY(189, -82);
+    auto3.setBitmap(touchgfx::Bitmap(BITMAP_YELLOW_AUTO_ID));
+
+    auto4.setXY(10, -93);
+    auto4.setBitmap(touchgfx::Bitmap(BITMAP_PIKUP_AUTO_ID));
+
+    car.setXY(10, 206);
+    car.setBitmap(touchgfx::Bitmap(BITMAP_PLAY_CAR_ID));
+
+    scoreContainer.setPosition(0, 0, 250, 26);
+
+    scoreBox.setPosition(0, 0, 240, 26);
+    scoreBox.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
+    scoreContainer.add(scoreBox);
+
+    scoreCounter.setPosition(120, 2, 120, 24);
+    scoreCounter.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    scoreCounter.setLinespacing(0);
+    Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%s", touchgfx::TypedText(T___SINGLEUSE_TIB2).getText());
+    scoreCounter.setWildcard(scoreCounterBuffer);
+    scoreCounter.setTypedText(touchgfx::TypedText(T___SINGLEUSE_RPDL));
+    scoreContainer.add(scoreCounter);
+
+    ScoreText.setPosition(60, 0, 60, 26);
+    ScoreText.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    ScoreText.setLinespacing(0);
+    ScoreText.setTypedText(touchgfx::TypedText(T___SINGLEUSE_BN4V));
+    scoreContainer.add(ScoreText);
 
     add(__background);
     add(road);
     add(line1);
     add(line2);
     add(line3);
+    add(auto2);
+    add(auto1);
+    add(auto3);
+    add(auto4);
     add(car);
+    add(scoreContainer);
 }
 
 void RaceScreenViewBase::setupScreen()

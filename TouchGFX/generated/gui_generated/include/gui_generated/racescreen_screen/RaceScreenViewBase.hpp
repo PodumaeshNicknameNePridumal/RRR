@@ -11,6 +11,9 @@
 #include <touchgfx/widgets/canvas/Line.hpp>
 #include <touchgfx/widgets/canvas/PainterRGB565.hpp>
 #include <touchgfx/widgets/Image.hpp>
+#include <touchgfx/containers/Container.hpp>
+#include <touchgfx/widgets/TextAreaWithWildcard.hpp>
+#include <touchgfx/widgets/TextArea.hpp>
 #include <touchgfx/EasingEquations.hpp>
 #include <touchgfx/mixins/MoveAnimator.hpp>
 
@@ -37,7 +40,21 @@ protected:
     touchgfx::PainterRGB565 line2Painter;
     touchgfx::Line line3;
     touchgfx::PainterRGB565 line3Painter;
+    touchgfx::MoveAnimator< touchgfx::Image > auto2;
+    touchgfx::MoveAnimator< touchgfx::Image > auto1;
+    touchgfx::MoveAnimator< touchgfx::Image > auto3;
+    touchgfx::MoveAnimator< touchgfx::Image > auto4;
     touchgfx::MoveAnimator< touchgfx::Image > car;
+    touchgfx::Container scoreContainer;
+    touchgfx::Box scoreBox;
+    touchgfx::TextAreaWithOneWildcard scoreCounter;
+    touchgfx::TextArea ScoreText;
+
+    /*
+     * Wildcard Buffers
+     */
+    static const uint16_t SCORECOUNTER_SIZE = 10;
+    touchgfx::Unicode::UnicodeChar scoreCounterBuffer[SCORECOUNTER_SIZE];
 
 private:
 

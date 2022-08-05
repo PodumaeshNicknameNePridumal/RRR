@@ -5,9 +5,23 @@
   </Languages>
   <Texts>
     <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_396J" Alignment="Left" TypographyId="Start">
+        <Translation Language="GB">  Russan&#10;            Road&#10;                         Rage</Translation>
+      </Text>
+      <Text Id="__SingleUse_TIB2" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_RPDL" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BN4V" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Score:</Translation>
+      </Text>
+    </TextGroup>
   </Texts>
   <Typographies>
-    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
-    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Start" Font="LATINWD.TTF" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="18" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
   </Typographies>
 </TextDatabase>

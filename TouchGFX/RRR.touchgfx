@@ -8,8 +8,9 @@
           {
             "Type": "Box",
             "Name": "road",
+            "Y": -148,
             "Width": 240,
-            "Height": 320,
+            "Height": 619,
             "Color": {
               "Red": 79,
               "Green": 79,
@@ -66,16 +67,150 @@
           },
           {
             "Type": "Image",
-            "Name": "car",
-            "X": 14,
-            "Y": 223,
-            "Width": 37,
-            "Height": 79,
-            "RelativeFilename": "auto.png",
+            "Name": "auto2",
+            "X": 120,
+            "Y": -98,
+            "Width": 50,
+            "Height": 98,
+            "RelativeFilename": "djip.png",
             "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "auto1",
+            "X": 69,
+            "Y": -86,
+            "Width": 42,
+            "Height": 88,
+            "RelativeFilename": "blue_auto.png",
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "auto3",
+            "X": 189,
+            "Y": -82,
+            "Width": 40,
+            "Height": 84,
+            "RelativeFilename": "yellow_auto.png",
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "auto4",
+            "X": 10,
+            "Y": -93,
+            "Width": 45,
+            "Height": 93,
+            "RelativeFilename": "pikup_auto.png",
+            "Moveable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "car",
+            "X": 10,
+            "Y": 206,
+            "Width": 39,
+            "Height": 78,
+            "RelativeFilename": "play_car.png",
+            "Moveable": true
+          },
+          {
+            "Type": "Container",
+            "Name": "scoreContainer",
+            "Width": 250,
+            "Height": 26,
+            "Components": [
+              {
+                "Type": "Box",
+                "Name": "scoreBox",
+                "Width": 240,
+                "Height": 26,
+                "Color": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                }
+              },
+              {
+                "Type": "TextArea",
+                "Name": "scoreCounter",
+                "X": 120,
+                "Y": 2,
+                "Width": 120,
+                "Height": 24,
+                "TextId": "__SingleUse_RPDL",
+                "TextRotation": "0",
+                "Wildcard1": {
+                  "TextId": "__SingleUse_TIB2",
+                  "UseBuffer": true,
+                  "BufferSize": 10
+                }
+              },
+              {
+                "Type": "TextArea",
+                "Name": "ScoreText",
+                "X": 60,
+                "Width": 60,
+                "Height": 26,
+                "TextId": "__SingleUse_BN4V",
+                "TextRotation": "0"
+              }
+            ]
           }
         ],
         "Interactions": []
+      },
+      {
+        "Name": "StartScreen",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 240,
+            "Height": 320,
+            "RelativeFilename": "start.png"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": -7,
+            "Y": 17,
+            "Width": 235,
+            "Height": 74,
+            "TextId": "__SingleUse_396J",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 247,
+              "Green": 10,
+              "Blue": 10
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "Button",
+            "Name": "button1",
+            "Y": 251,
+            "Width": 150,
+            "Height": 69,
+            "Pressed": "start_btn.png",
+            "Released": "start_btn.png"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "button1"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "RaceScreen"
+            }
+          }
+        ]
       }
     ],
     "CustomContainerDefinitions": [],
@@ -85,7 +220,7 @@
       "Height": 320
     },
     "SelectedColorDepth": 16,
-    "StartupScreenName": "RaceScreen",
+    "StartupScreenName": "StartScreen",
     "SelectedStartupLanguage": "GB",
     "Skin": "Blue",
     "TouchGfxPath": "../Middlewares/ST/touchgfx",

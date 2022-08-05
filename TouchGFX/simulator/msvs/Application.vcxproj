@@ -24,6 +24,9 @@
     <ClCompile Include="..\..\gui\src\racescreen_screen\RaceScreenPresenter.cpp"/>
     <ClCompile Include="..\..\gui\src\racescreen_screen\RaceScreenView.cpp"/>
     <ClCompile Include="..\..\generated\gui_generated\src\racescreen_screen\RaceScreenViewBase.cpp"/>
+    <ClCompile Include="..\..\gui\src\startscreen_screen\StartScreenPresenter.cpp"/>
+    <ClCompile Include="..\..\gui\src\startscreen_screen\StartScreenView.cpp"/>
+    <ClCompile Include="..\..\generated\gui_generated\src\startscreen_screen\StartScreenViewBase.cpp"/>
   </ItemGroup>
   <ItemGroup>
     <None Include="$(ApplicationRoot)\assets\texts\texts.xml"/>
@@ -177,6 +180,9 @@
     <ClInclude Include="..\..\gui\include\gui\racescreen_screen\RaceScreenPresenter.hpp"/>
     <ClInclude Include="..\..\gui\include\gui\racescreen_screen\RaceScreenView.hpp"/>
     <ClInclude Include="..\..\generated\gui_generated\include\gui_generated\racescreen_screen\RaceScreenViewBase.hpp"/>
+    <ClInclude Include="..\..\gui\include\gui\startscreen_screen\StartScreenPresenter.hpp"/>
+    <ClInclude Include="..\..\gui\include\gui\startscreen_screen\StartScreenView.hpp"/>
+    <ClInclude Include="..\..\generated\gui_generated\include\gui_generated\startscreen_screen\StartScreenViewBase.hpp"/>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="$(ApplicationRoot)\generated\simulator\touchgfx.rc"/>

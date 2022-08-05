@@ -8,9 +8,10 @@ RaceScreenView::RaceScreenView()
 void RaceScreenView::setupScreen()
 {
     RaceScreenViewBase::setupScreen();
-    counter = 0;
     carX = car.getX();
     carY = car.getY();
+    score = 0;
+
     moveDirection = 2;
 
 }
@@ -19,9 +20,14 @@ void RaceScreenView::tearDownScreen()
 {
     RaceScreenViewBase::tearDownScreen();
 }
+
 // moveDirection 1 - up, 2 - up and right, 3 - right, 4 - right and down and continue...
 void RaceScreenView::handleTickEvent() {
 	car.cancelMoveAnimation();
+	score++;
+	Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%d", score/20);
+	scoreCounter.invalidate();
+
 	if (carX == 0) {
 		if (moveDirection ==  8) moveDirection = 2;
 		else if (moveDirection == 6) moveDirection = 4;
@@ -30,7 +36,7 @@ void RaceScreenView::handleTickEvent() {
 		if (moveDirection == 2) moveDirection = 8;
 		else if (moveDirection == 4) moveDirection = 6;
 	}
-	if (carY == 0) {
+	if (carY == 26) {
 		if(moveDirection == 2) moveDirection = 4;
 		else if (moveDirection == 8) moveDirection = 6;
 	}
@@ -38,7 +44,6 @@ void RaceScreenView::handleTickEvent() {
 		if (moveDirection == 4) moveDirection = 2;
 		else if (moveDirection == 6) moveDirection = 8;
 	}
-
 
 	switch(moveDirection) {
 	case 1:
@@ -74,5 +79,4 @@ void RaceScreenView::handleTickEvent() {
 	}
 
 	car.startMoveAnimation(carX, carY, 20);
-
 }

@@ -14,6 +14,8 @@
 
 #include <gui/racescreen_screen/RaceScreenView.hpp>
 #include <gui/racescreen_screen/RaceScreenPresenter.hpp>
+#include <gui/startscreen_screen/StartScreenView.hpp>
+#include <gui/startscreen_screen/StartScreenPresenter.hpp>
 
 
 /**
@@ -37,7 +39,8 @@ public:
      * @note All view types used in the application MUST be added to this list!
      */
     typedef touchgfx::meta::TypeList< RaceScreenView,
-            touchgfx::meta::Nil
+            touchgfx::meta::TypeList< StartScreenView,
+            touchgfx::meta::Nil >
             > GeneratedViewTypes;
 
     /**
@@ -50,7 +53,8 @@ public:
      * @note All presenter types used in the application MUST be added to this list!
      */
     typedef touchgfx::meta::TypeList< RaceScreenPresenter,
-            touchgfx::meta::Nil
+            touchgfx::meta::TypeList< StartScreenPresenter,
+            touchgfx::meta::Nil >
             > GeneratedPresenterTypes;
 
     /**
@@ -73,7 +77,7 @@ public:
 
     virtual void gotoStartScreen(FrontendApplication& app)
     {
-        app.gotoRaceScreenScreenNoTransition();
+        app.gotoStartScreenScreenNoTransition();
     }
 protected:
     FrontendHeapBase(touchgfx::AbstractPartition& presenters, touchgfx::AbstractPartition& views, touchgfx::AbstractPartition& transitions, FrontendApplication& app)

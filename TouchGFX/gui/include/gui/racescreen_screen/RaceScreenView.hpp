@@ -13,9 +13,8 @@ public:
     virtual void tearDownScreen();
     virtual void handleTickEvent();
 protected:
-    uint16_t carX,carY;
-    int counter;
-    int moveDirection;
+    uint16_t carX, carY;
+    int moveDirection, score;;
 };
 
 #endif // RACESCREENVIEW_HPP
