@@ -9,5 +9,12 @@ Model::Model() : modelListener(0)
 
 void Model::tick()
 {
+    uint16_t msg[2] = {0, 0};
+    extern osMessageQueueId_t joystickQueueHandle;
+    osMessageQueueGet(joystickQueueHandle, &msg, 0, 0);
+    int adc[2];
+    adc[0] = (int)msg[0];
+    adc[1] = (int)msg[1];
+    modelListener->joystickMove(adc);
 
 }

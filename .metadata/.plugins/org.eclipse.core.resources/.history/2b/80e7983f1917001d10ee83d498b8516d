@@ -1,0 +1,18 @@
+#include <gui/model/Model.hpp>
+#include <gui/model/ModelListener.hpp>
+
+
+Model::Model() : modelListener(0)
+{
+
+}
+
+void Model::tick()
+{
+
+    uint16_t msg[2] = {0, 0};
+    osMessageQueueGet(joystickQueueHandle, &msg, 0, 0);
+    uint32_t adc[2] = msg;
+    modelListener->joystickMove(adc);
+
+}

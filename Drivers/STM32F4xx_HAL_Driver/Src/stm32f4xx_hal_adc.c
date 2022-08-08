@@ -2048,7 +2048,7 @@ static void ADC_DMAError(DMA_HandleTypeDef *hdma)
   * @}
   */
 
-#endif  HAL_ADC_MODULE_ENABLED
+#endif /* HAL_ADC_MODULE_ENABLED */
 /**
   * @}
   */ 

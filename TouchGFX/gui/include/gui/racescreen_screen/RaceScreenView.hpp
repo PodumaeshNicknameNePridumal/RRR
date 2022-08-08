@@ -13,14 +13,16 @@ class RaceScreenView : public RaceScreenViewBase
 {
 public:
     RaceScreenView();
-    uint32_t VR[2];
     virtual ~RaceScreenView() {}
     virtual void setupScreen();
     virtual void tearDownScreen();
     virtual void handleTickEvent();
+    virtual void movingTheCar(int adc[2]);
 protected:
     uint16_t carX, carY;
     int moveDirection, score;
+
+
 };
 
 #endif // RACESCREENVIEW_HPP

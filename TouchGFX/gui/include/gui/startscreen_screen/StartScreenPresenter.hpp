@@ -12,6 +12,7 @@ class StartScreenPresenter : public touchgfx::Presenter, public ModelListener
 {
 public:
     StartScreenPresenter(StartScreenView& v);
+    virtual void joystickMove(int msg[2]);
 
     /**
      * The activate function is called automatically when this screen is "switched in"

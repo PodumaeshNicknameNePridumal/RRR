@@ -9,6 +9,7 @@ public:
     ModelListener() : model(0) {}
     
     virtual ~ModelListener() {}
+    virtual void joystickMove(int msg[2]);
 
     void bind(Model* m)
     {

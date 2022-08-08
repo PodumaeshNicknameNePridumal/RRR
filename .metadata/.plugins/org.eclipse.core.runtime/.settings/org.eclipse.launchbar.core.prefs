@@ -1,11 +1,12 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F429I-DISCO Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32CubeIDE Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F429I-DISCO Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:joystick Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F769I_DISCO,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32CubeIDE Debug
 eclipse.preferences.version=1
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32CubeIDE\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32CubeIDE\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32CubeIDE\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F429I-DISCO\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32F429I-DISCO\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:joystick\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:STM32CubeIDE\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:STM32CubeIDE\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

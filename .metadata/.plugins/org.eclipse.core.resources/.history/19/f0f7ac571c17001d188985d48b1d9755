@@ -1,0 +1,74 @@
+#include <gui/racescreen_screen/RaceScreenView.hpp>
+
+RaceScreenView::RaceScreenView()
+{
+
+}
+
+void RaceScreenView::setupScreen()
+{
+	carX = car.getX();
+    carY = car.getY();
+    score = 0;
+//    moveDirection = 2;
+    RaceScreenViewBase::setupScreen();
+}
+
+void RaceScreenView::tearDownScreen()
+{
+    RaceScreenViewBase::tearDownScreen();
+}
+
+void RaceScreenView::movingTheCar(int adc[2]) {
+
+	car.cancelMoveAnimation();
+	if ((adc[0]>=2000) && (adc[0]<=3000))
+		 {
+		  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_RESET);
+		 }
+
+	if ((adc[1]>=2000) && (adc[1]<=3000))
+		 {
+			 HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_RESET);
+		 }
+
+	if ((adc[0]>=4000))
+		 {
+			  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_SET);
+			  carX--;
+		 }
+
+	if ((adc[0]<=800))
+		 {
+			  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_SET);
+			  carX++;
+		 }
+
+	if ((adc[1]>=4000))
+		 {
+			  HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_SET);
+			  carY++;
+		 }
+
+	if ((adc[1]<=800))
+		 {
+			  HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_SET);
+			  carY--;
+		 }
+	car.startMoveAnimation(carX, carY, 20);
+
+}
+
+// moveDirection 1 - up, 2 - up and right, 3 - right, 4 - right and down and continue...
+void RaceScreenView::handleTickEvent() {
+
+	car.cancelMoveAnimation();
+	score++;
+	Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%d",result[0]);
+	scoreCounter.invalidate();
+
+
+
+
+	car.startMoveAnimation(carX, carY, 20);
+}

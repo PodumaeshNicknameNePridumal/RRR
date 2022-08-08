@@ -1,5 +1,7 @@
-../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:28:13:StartScreenPresenter::~StartScreenPresenter()	0	static
+../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:29:13:StartScreenPresenter::~StartScreenPresenter()	0	static
 C:/TouchGFXProjects/RRR/TouchGFX/gui/src/startscreen_screen/StartScreenPresenter.cpp:10:6:virtual void StartScreenPresenter::activate()	0	static
-../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:28:13:virtual StartScreenPresenter::~StartScreenPresenter()	8	static
-../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:28:13:virtual void* StartScreenPresenter::_ZThn4_N20StartScreenPresenterD1Ev()	0	static
+C:/TouchGFXProjects/RRR/TouchGFX/gui/src/startscreen_screen/StartScreenPresenter.cpp:20:6:virtual void StartScreenPresenter::joystickMove(int*)	0	static
+../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:29:13:virtual StartScreenPresenter::~StartScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:29:13:virtual void* StartScreenPresenter::_ZThn4_N20StartScreenPresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/startscreen_screen/StartScreenPresenter.hpp:15:18:virtual void StartScreenPresenter::_ZThn4_N20StartScreenPresenter12joystickMoveEPi(int*)	0	static
 C:/TouchGFXProjects/RRR/TouchGFX/gui/src/startscreen_screen/StartScreenPresenter.cpp:4:1:StartScreenPresenter::StartScreenPresenter(StartScreenView&)	8	static

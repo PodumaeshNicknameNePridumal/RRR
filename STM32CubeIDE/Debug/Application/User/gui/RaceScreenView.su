@@ -1,0 +1,9 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/racescreen_screen/RaceScreenView.hpp:16:13:RaceScreenView::~RaceScreenView()	0	static
+C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenView.cpp:16:6:virtual void RaceScreenView::tearDownScreen()	0	static
+C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenView.cpp:65:6:virtual void RaceScreenView::handleTickEvent()	0	static
+C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenView.cpp:8:6:virtual void RaceScreenView::setupScreen()	0	static
+../../TouchGFX/gui/include/gui/racescreen_screen/RaceScreenView.hpp:16:13:virtual RaceScreenView::~RaceScreenView()	8	static
+C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenView.cpp:21:6:virtual void RaceScreenView::movingTheCar(int*)	32	static
+C:/TouchGFXProjects/RRR/TouchGFX/gui/src/racescreen_screen/RaceScreenView.cpp:3:1:RaceScreenView::RaceScreenView()	8	static

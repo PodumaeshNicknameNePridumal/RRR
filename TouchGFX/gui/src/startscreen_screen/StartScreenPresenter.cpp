@@ -16,3 +16,8 @@ void StartScreenPresenter::deactivate()
 {
 
 }
+
+void StartScreenPresenter::joystickMove(int msg[2])
+{
+
+}

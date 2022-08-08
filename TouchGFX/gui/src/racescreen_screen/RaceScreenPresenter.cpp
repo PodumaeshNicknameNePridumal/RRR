@@ -16,3 +16,7 @@ void RaceScreenPresenter::deactivate()
 {
 
 }
+
+void RaceScreenPresenter::joystickMove(int msg[2]) {
+	view.movingTheCar(msg);
+}

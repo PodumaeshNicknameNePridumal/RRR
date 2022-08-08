@@ -10,10 +10,7 @@ void RaceScreenView::setupScreen()
 	carX = car.getX();
     carY = car.getY();
     score = 0;
-    moveDirection = 2;
     RaceScreenViewBase::setupScreen();
-
-
 }
 
 void RaceScreenView::tearDownScreen()
@@ -21,67 +18,57 @@ void RaceScreenView::tearDownScreen()
     RaceScreenViewBase::tearDownScreen();
 }
 
-// moveDirection 1 - up, 2 - up and right, 3 - right, 4 - right and down and continue...
-void RaceScreenView::handleTickEvent() {
-    extern ADC_HandleTypeDef hadc1;
-    uint32_t adcResult[2];
-    HAL_ADC_Start_DMA(&hadc1, adcResult, 2);
-
-	car.cancelMoveAnimation();
-	score++;
-	Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%d", score/20);
+void RaceScreenView::movingTheCar(int adc[2]) {
+	Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%d",adc[0]);
 	scoreCounter.invalidate();
 
 
-	if (carX == 0) {
-		if (moveDirection ==  8) moveDirection = 2;
-		else if (moveDirection == 6) moveDirection = 4;
-	}
-	if (carX == 203) {
-		if (moveDirection == 2) moveDirection = 8;
-		else if (moveDirection == 4) moveDirection = 6;
-	}
-	if (carY == 26) {
-		if(moveDirection == 2) moveDirection = 4;
-		else if (moveDirection == 8) moveDirection = 6;
-	}
-	if (carY == 240) {
-		if (moveDirection == 4) moveDirection = 2;
-		else if (moveDirection == 6) moveDirection = 8;
-	}
+	car.cancelMoveAnimation();
+	if ((adc[0]>=2000) && (adc[0]<=3000))
+		 {
+		  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_RESET);
+		 }
 
-	switch(moveDirection) {
-	case 1:
-		carY--;
-		break;
-	case 2:
-		carX++;
-		carY--;
-		break;
-	case 3:
-		carX++;
-		break;
-	case 4:
-		carX++;
-		carY++;
-		break;
-	case 5:
-		carY++;
-		break;
-	case 6:
-		carX--;
-		carY++;
-		break;
-	case 7:
-		carX--;
-		break;
-	case 8:
-		carX--;
-		carY--;
-		break;
-	default:
-		break;
-	}
+	if ((adc[1]>=2000) && (adc[1]<=3000))
+		 {
+			 HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_RESET);
+		 }
 
+	if ((adc[0]>=4000))
+		 {
+			  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_SET);
+			  carX--;
+		 }
+
+	if ((adc[0]<=800))
+		 {
+			  HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_SET);
+			  carX++;
+		 }
+
+	if ((adc[1]>=4000))
+		 {
+			  HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_SET);
+			  carY++;
+		 }
+
+	if ((adc[1]<=800))
+		 {
+			  HAL_GPIO_WritePin(LED2_GPIO_Port, LED2_Pin, GPIO_PIN_SET);
+			  carY++;
+		 }
 	car.startMoveAnimation(carX, carY, 20);
+
+}
+
+// moveDirection 1 - up, 2 - up and right, 3 - right, 4 - right and down and continue...
+void RaceScreenView::handleTickEvent() {
+
+	score++;
+//	Unicode::snprintf(scoreCounterBuffer, SCORECOUNTER_SIZE, "%d",a[0]);
+//	scoreCounter.invalidate();
+
+
+
+
 }
